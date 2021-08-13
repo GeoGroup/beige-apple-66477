@@ -82,7 +82,7 @@ layout: page
 
 ### 服务流程&#xA;   
 
-1\. 客户将文章发送至PEE邮箱 (editors@proarticleexperts.com)，注明服务类型-润色(标准或资深专家)/翻译，以及时间要求；
+1\. 客户将文章发送至PEE邮箱 (pee.editor@outlook.com)，注明服务类型-润色(标准或资深专家)/翻译，以及时间要求；
 
 2\. PEE编辑查阅文章字数，给出定价，发给客户付款链接；
 
