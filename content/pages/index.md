@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Pro English Editing
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Innovative Scientific Solutions&#xA;&#xA;&#xA;
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
