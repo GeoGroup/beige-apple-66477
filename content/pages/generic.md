@@ -1,5 +1,5 @@
 ---
-title: Just a Generic Page
+title: Good Price & High Quality
 subtitle: Supporting you in every phase of publishing
 seo:
   title: Just a Generic Page
