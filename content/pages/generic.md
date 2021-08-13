@@ -1,6 +1,6 @@
 ---
 title: Just a Generic Page
-subtitle: Just a generic subtitle for the page
+subtitle: Supporting you in every phase of publishing
 seo:
   title: Just a Generic Page
   description: This is a generic page
