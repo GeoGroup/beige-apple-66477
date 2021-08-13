@@ -19,6 +19,7 @@ seo:
     - name: 'twitter:description'
       value: This is the UI kit page
 layout: page
+title: About US
 ---
 We are a committed team of experienced editors who are passionate about scientific writing in engineering, mechanics, and earth sciences. Our mission is to help researchers publish their exciting new ideas, techniques, observations, and novel results in the best journals by improving the quality of scientific writing.
 
