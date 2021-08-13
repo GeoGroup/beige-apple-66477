@@ -1,5 +1,4 @@
 ---
-subtitle: Vanilla styleguide.
 seo:
   title: UI Kit
   description: This is the UI kit page
