@@ -1,5 +1,5 @@
 ---
-title: Ipsum dolor sit amet
+title: PAE帮助专业化您的文章
 subtitle: Aliquam lobortis faucibus blandit
 seo:
   title: Ipsum dolor sit amet
