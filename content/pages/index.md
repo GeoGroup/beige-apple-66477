@@ -11,26 +11,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
-
-      ### This is an H3. Use it for subheads and subsections.
-
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
-
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+    content: "### PEE helps you share your research with the world\n\nPro articles need pro language. You do the research, we do the editing and translating.\n\nOur team specializes in research papers and reviews in engineering, mechanics, and earth sciences.\n\nAt PAE, we strive to consistently deliver exceptional and high-quality services to our customers.\n\nWe are not the largest, but we are trying to be the best.\n\n### Language Editing\_\n\nHighest standard English editing from an experienced editor in your field to ensure that your article is ready for journal submission\_\n\n### Translation\n\nTranslation of your article from Chinese into high quality submission ready English\n\n### Formatting\n\nManuscript and reference (within and at the end of the paper) formatting according to your selected journal’s requirements\n\n### Journal Recommendation\n\nCarefully selecting 3 journals to match your research topics while considering chance of acceptance and impact factor\n"
     image_alt: test
   - title: Recent Posts
     section_id: posts
