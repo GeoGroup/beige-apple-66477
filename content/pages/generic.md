@@ -54,6 +54,6 @@ When sending your manuscript to us, please clearly state the type of service you
 ![Block Image](/images/vanilla-preview.png)
 
 ## Translation
-
+![Block Image](/images/vanilla-preview.png)
 
 
