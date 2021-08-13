@@ -22,12 +22,6 @@ seo:
       value: Aliquam lobortis faucibus blandit
 layout: page
 ---
-
-
-    我们的团队专注于工程、力学和地球科学领域的研究论文
-
-    我们努力始终如一地为我们的客户提供卓越和高质量的服务
-
     我们不求最大，只求最专
 
 语言编辑
